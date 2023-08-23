@@ -1,0 +1,7 @@
+## Title: Transmute Indicator
+## APIVersion: 101039
+## AddOnVersion: 1
+## IsLibrary: False
+
+Transmute-Indicator.lua
+Transmute-Indicator.xml
